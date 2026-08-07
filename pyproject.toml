@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.scripts]
-contacts = "simple-contacts-cli:simpleContact_0.0.5.start()"
+contacts = "simpleContact_0.0.5:start"
