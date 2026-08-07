@@ -10,7 +10,7 @@ This was my first project that I actually worked on for a considerable amount of
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourname/simple-contact-cli.git
+git clone https://github.com/doggyangel/simple-contacts.git
 cd simple-contact-cli
 ```
 
