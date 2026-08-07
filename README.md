@@ -8,10 +8,9 @@ This was my first project that I actually worked on for a considerable amount of
 
 ## Installation
 
-Clone the repository and install dependencies:
+Clone the repository:
 ```bash
 git clone https://github.com/doggyangel/simple-contacts.git
-cd simple-contact-cli
 ```
 
 ## Usage
