@@ -11,6 +11,7 @@ This was my first project that I actually worked on for a considerable amount of
 Clone the repository:
 ```bash
 git clone https://github.com/doggyangel/simple-contacts.git
+pip install simple-contacts
 ```
 
 ## Usage
