@@ -20,8 +20,7 @@ classifiers = [
 ]
 dependencies = [
     "pip"
-    "setuptools"
-]
+    "setuptools"]
 
 [project.scripts]
 contacts = "simple_contacts_cli.cli:start"
