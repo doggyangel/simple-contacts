@@ -18,6 +18,10 @@ classifiers = [
     "Intended Audience :: End Users/Desktop",
     "Topic :: Utilities"
 ]
+dependencies = [
+    "pip"
+    "setuptools"
+]
 
 [project.scripts]
 contacts = "simple_contacts_cli.cli:start"
