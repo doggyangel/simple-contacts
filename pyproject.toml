@@ -11,7 +11,7 @@ authors = [
 ]
 description = "a very simple command line contact book"
 license = "MIT"
-license-files = "LICENSE"
+license-files = ["LICENSE"]
 keywords = ["contact manager", "CLI"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.scripts]
-contacts = "simpleContact_0.0.5:start"
+contacts = "simple_contacts_cli.cli:start"
